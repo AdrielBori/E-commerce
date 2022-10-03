@@ -32,6 +32,7 @@ h1{
 }
 .menu li{
     display: inline;
+    margin: 5px;
 }
 a{
     color: white;
