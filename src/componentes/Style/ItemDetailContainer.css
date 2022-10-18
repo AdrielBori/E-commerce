@@ -1,0 +1,35 @@
+.itemDetalContainer{
+    width: 100vw;
+    height: max-content;
+    display: flex;
+    justify-content: space-around;
+
+}
+.divDetailText{
+    width: 46%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.titleDetailItem{
+    font-size: 38px;
+    color: black;
+
+}
+.priceItem{
+    font-size: 24px;
+    color: green;
+    
+}
+
+.imgDetailItem{
+    width: 40%;
+
+}
+.descripItem{
+    margin-top: 15%;
+    font-size: 18px;
+    color: black;
+}
